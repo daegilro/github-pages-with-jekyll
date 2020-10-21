@@ -1,11 +1,13 @@
-# Welcome to my blog
-## Pirobosgonorreaas
+# Bienvenidos a mi Bio.
+## By : David Esteban Gil Rodríguez
+En esta pagina encontrara contenido acerca de mi y el trabajo que realizo
+----
+# Proyectos
+## Proyectos UNAL
+- Virtualcommissioning
+- Control robot
 
-Asi es chupelo pirobo
-## no se que mas
-### asi esta bien?
-
-pues no
-
-
-I'm glad you are here. I plan to talk about ...
+----
+# Videos
+-Este es uun videio
+- Este es otro
