@@ -1,12 +1,12 @@
-title: Mi nueva pagina
+title: Biografía
 theme: minima
-author: David E Gil R
+author: David Esteban Gil Rodríguez
 email: daegilro@unal.edu.co
 description: > # this means to ignore newlines until "baseurl:"
-  Pagina de prueba, itsjsutatest
+  Pagina de prueba, para aprender a diseñarla y quede bien aspera
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: aunsinnombre # DO NOT include the @ character, or else the build will fail!
+github_username:  daegilro # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
