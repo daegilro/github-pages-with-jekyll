@@ -1,8 +1,10 @@
 
-# Bienvenidos a mi Bio.
+# Bio.
+---
 
+## *Bienvenidos a mi Bio.*
     
-## By : David Esteban Gil Rodríguez
+### By : David Esteban Gil Rodríguez
 En esta pagina encontrara contenido acerca de mi y el trabajo que realizo
 ----
 # Proyectos
