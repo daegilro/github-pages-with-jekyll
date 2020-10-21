@@ -14,5 +14,5 @@ En esta pagina encontrara contenido acerca de mi y el trabajo que realizo
 
 ----
 # Videos
--Este es uun videio
+- Este es uun videio
 - Este es otro
